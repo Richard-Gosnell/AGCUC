@@ -24,39 +24,39 @@
                                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="about.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     About
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Our Mission</a></li>
-                                    <li><a class="dropdown-item" href="#">Our Staff</a></li>
-                                    <li><a class="dropdown-item" href="#">Our History</a></li>
+                                    <li><a class="dropdown-item" href="mission.php">Our Mission</a></li>
+                                    <li><a class="dropdown-item" href="staff.php">Our Staff</a></li>
+                                    <li><a class="dropdown-item" href="history.php">Our History</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="worship.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Worship
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Rural Connect</a></li>
+                                    <li><a class="dropdown-item" href="rural_connect.php">Rural Connect</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="community.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Community
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Groups</a></li>
-                                    <li><a class="dropdown-item" href="#">Pastoral Care</a></li>
-                                    <li><a class="dropdown-item" href="#">Events</a></li>
+                                    <li><a class="dropdown-item" href="groups.php">Groups</a></li>
+                                    <li><a class="dropdown-item" href="pastoral_care.php">Pastoral Care</a></li>
+                                    <li><a class="dropdown-item" href="events.php">Events</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="donate.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Donate
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Memorial Fund</a></li>
+                                    <li><a class="dropdown-item" href="memorial_fund.php">Memorial Fund</a></li>
                                 </ul>
                             </li>
                         </ul>
