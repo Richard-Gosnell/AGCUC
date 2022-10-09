@@ -8,7 +8,6 @@
         <header>
             <h1 class="warning">Admin Login</h1>
             <h3 class="warning">Warning: Unauthorized Access Is Strictly Prohibited!</h3>
-            <h3>Please click <a href="index.php">here</a> to return to our home page</h3>
         </header>
         <form>
             <label>Username:</label>
@@ -19,6 +18,7 @@
             <input type="checkbox" id="authorized" name="authorized">
             <input type="submit" id="submit" name="submit">
         </form>
+        <h3>Please click <a href="index.php">here</a> to return to our home page</h3>
     </body>
 </html>
 
