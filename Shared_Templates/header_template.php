@@ -41,7 +41,7 @@
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="community.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="groups.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Community
                     </a>
                     <ul class="dropdown-menu">
