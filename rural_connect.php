@@ -12,11 +12,14 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0" nonce="3P7CWLbT"></script>
 </head>
 <body>
-<header>
-    <?php require "Shared_Templates/header_template.php"; ?>
-</header>
-<footer>
-    <?php require "Shared_Templates/footer_template.php"; ?>
-</footer>
+    <header>
+        <?php require "Shared_Templates/header_template.php"; ?>
+    </header>
+    <section id="Rural_Connect">
+        <h2>Rural Connect</h2>
+    </section>
+    <footer>
+        <?php require "Shared_Templates/footer_template.php"; ?>
+    </footer>
 </body>
 </html>
