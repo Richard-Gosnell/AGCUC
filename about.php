@@ -35,7 +35,10 @@
         </p>
     </section>
     <section id="About_Us-Links">
-
+        <a href="rural_connect.php">Rural Connect</a>
+        <a href="staff.php">Our Staff</a>
+        <a href="mission.php">Our Mission</a>
+        <a href="history.php">Our History</a>
     </section>
 <footer>
     <?php require "Shared_Templates/footer_template.php"; ?>
