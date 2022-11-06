@@ -12,11 +12,24 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0" nonce="3P7CWLbT"></script>
 </head>
 <body>
-<header>
-    <?php require "Shared_Templates/header_template.php"; ?>
-</header>
-<footer>
-    <?php require "Shared_Templates/footer_template.php"; ?>
-</footer>
+    <header>
+        <?php require "Shared_Templates/header_template.php"; ?>
+    </header>
+    <section id="Mission_Statment">
+        <h2>Mission Statement</h2>
+        <p>
+            Our mission as a church is to serve, to worship, and to witness in the name and the love of Jesus Christ.
+        </p>
+        <p>
+            We respect and support all people regardless of race, ethnicity, gender expression, sexual orientation,
+            socio-economic background, age, religion and ability.
+        </p>
+        <p>
+            We invite all people, to learn and grow with us as we work together to put our faith into action.
+        </p>
+    </section>
+    <footer>
+        <?php require "Shared_Templates/footer_template.php"; ?>
+    </footer>
 </body>
 </html>
