@@ -15,7 +15,7 @@
     <header>
         <?php require "Shared_Templates/header_template.php"; ?>
     </header>
-    <section>
+    <section id="Events">
         <h2>Events</h2>
     </section>
     <footer>
